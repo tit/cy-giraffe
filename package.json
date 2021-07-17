@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/tit/cy-giraffe/issues"
   },
-  "homepage": "https://github.com/tit/cy-giraffe#readme"
+  "homepage": "https://github.com/tit/cy-giraffe#readme",
+  "dependencies": {
+    "deep-rename-keys": "0.2.1"
+  }
 }
