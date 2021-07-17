@@ -1,0 +1,16 @@
+{
+  "name": "@titnet/cy-giraffe",
+  "version": "1.0.0",
+  "description": "Extend Cypress Commands",
+  "main": "main",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tit/cy-giraffe.git"
+  },
+  "author": "Sergey Blohin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tit/cy-giraffe/issues"
+  },
+  "homepage": "https://github.com/tit/cy-giraffe#readme"
+}
