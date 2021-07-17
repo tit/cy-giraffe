@@ -1,5 +1,5 @@
 {
-  "name": "@titnet/cy-giraffe",
+  "name": "cy-giraffe",
   "version": "1.0.0",
   "description": "Extend Cypress Commands",
   "main": "main",
