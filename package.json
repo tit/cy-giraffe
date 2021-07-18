@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/tit/cy-giraffe#readme",
   "dependencies": {
+    "cypress": "^7.7.0",
     "deep-rename-keys": "0.2.1"
   }
 }
