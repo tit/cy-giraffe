@@ -11,7 +11,7 @@ npm install cy-giraffe
 In your cypress/support/commands.js file, add the following:
 
 ```javascript
-require('cy.giraffe')
+require('cy-giraffe')
 ```
 
 ## Command List

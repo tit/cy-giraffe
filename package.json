@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/tit/cy-giraffe#readme",
   "dependencies": {
+    "cypress-iframe": "^1.0.1",
     "deep-rename-keys": "0.2.1"
   },
   "devDependencies": {

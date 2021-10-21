@@ -1,3 +1,8 @@
 require('./commands/log')
 require('./commands/hide')
 require('./commands/inner_text')
+require('./commands/wait_progressive')
+require('./commands/slot_content')
+require('./commands/pseudo')
+require('./commands/recaptcha')
+require('./commands/suppress_error')
